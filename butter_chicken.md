@@ -1,5 +1,6 @@
 # Vegan Butter Chicken 
 
+:clock: - 5 minutes
 | Item            | Quantity | 
 |-----------------|----------|
 | Shallot         | 1        |
@@ -43,4 +44,4 @@ Heat 1 1/2 teaspoons of peanut oil in a heavy skillet (preferably cast iron) ove
 | Corn starch     | 1 tbsp   |
 | Cold water      | 0.25 cup |
 
-5. Mix the cornstarch and cold water. Return the saucepan to the stove over medium-high heat. Stir the cornstarch mixture into the sauce. Bring to a boil; reduce the heat and simmer until the sauce has thickened, about 5 to 10 minutes.
+Mix the cornstarch and cold water. Return the saucepan to the stove over medium-high heat. Stir the cornstarch mixture into the sauce. Bring to a boil; reduce the heat and simmer until the sauce has thickened, about 5 to 10 minutes.
