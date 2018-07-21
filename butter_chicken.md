@@ -1,6 +1,6 @@
 # Vegan Butter Chicken 
 
-:clock: - 5 minutes
+:clock5: - 5 minutes
 | Item            | Quantity | 
 |-----------------|----------|
 | Shallot         | 1        |
