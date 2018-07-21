@@ -37,7 +37,7 @@ Stir in the tomato puree and cook for :clock5: **2 minutes** more. Reduce the he
 | Cayenne pepper  | 0.25 tsp  |
 | Seitan          | 3 cutlets |
 
-Heat 1 1/2 teaspoons of peanut oil in a heavy skillet (preferably cast iron) over medium heat. Add the [seitan]() and cook, stirring constantly, for 10 minutes. Reduce the heat to low and season the seitan with 2 teaspoons garam masala and a pinch of cayenne. Stir in about a 1/4 cup of the tomato-yogurt sauce and simmer for 2 to 3 minutes. Transfer the seitan mixture to the saucepan.
+Heat 1 1/2 teaspoons of peanut oil in a heavy skillet (preferably cast iron) over medium heat. Add the [seitan](https://github.com/hnagib/Vegan-Recipes/blob/master/seitan.md) and cook, stirring constantly, for 10 minutes. Reduce the heat to low and season the seitan with 2 teaspoons garam masala and a pinch of cayenne. Stir in about a 1/4 cup of the tomato-yogurt sauce and simmer for 2 to 3 minutes. Transfer the seitan mixture to the saucepan.
 
 | Item            | Quantity | 
 |-----------------|----------|
