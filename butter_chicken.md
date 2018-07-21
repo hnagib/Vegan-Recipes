@@ -1,12 +1,11 @@
 # Vegan Butter Chicken 
 
-:clock5: - 5 minutes
 | Item            | Quantity | 
 |-----------------|----------|
 | Shallot         | 1        |
 | Onion           | 0.5      |
 
-Heat 1 tablespoon peanut oil in a saucepan over medium heat. Stir in the shallot and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. 
+Heat 1 tablespoon peanut oil in a saucepan over medium heat. Stir in the shallot and onion; cook and stir until the onion has softened and turned translucent, about :clock5: **5 minutes**. 
 
 | Item            | Quantity | 
 |-----------------|----------|
@@ -20,7 +19,7 @@ Heat 1 tablespoon peanut oil in a saucepan over medium heat. Stir in the shallot
 | Ground Cumin    | 2 tsp    |
 | Bay Leaf        | 1        |
 
-Add the margarine, lemon juice, ginger, garlic, garam masala, curry powder, chili powder, cumin, and bay leaf. Cook and stir for 1 minute.
+Add the margarine, lemon juice, ginger, garlic, garam masala, curry powder, chili powder, cumin, and bay leaf. Cook and stir for :clock5: **1 minute**.
 
 | Item            | Quantity | 
 |-----------------|----------|
@@ -30,7 +29,7 @@ Add the margarine, lemon juice, ginger, garlic, garam masala, curry powder, chil
 | Cayenne pepper  | 0.25 tsp |
 | Black pepper    | 0.25 tsp |
 
-Stir in the tomato puree and cook for 2 minutes more. Reduce the heat to low, and mix in the soy milk and soy yogurt. Simmer for 10 minutes, stirring frequently. Season to taste with cayenne, salt, and black pepper; remove from heat and set aside.
+Stir in the tomato puree and cook for :clock5: **2 minutes** more. Reduce the heat to low, and mix in the soy milk and soy yogurt. Simmer for :clock5: **10 minutes**, stirring frequently. Season to taste with cayenne, salt, and black pepper; remove from heat and set aside.
 
 | Item            | Quantity | 
 |-----------------|----------|
@@ -44,4 +43,4 @@ Heat 1 1/2 teaspoons of peanut oil in a heavy skillet (preferably cast iron) ove
 | Corn starch     | 1 tbsp   |
 | Cold water      | 0.25 cup |
 
-Mix the cornstarch and cold water. Return the saucepan to the stove over medium-high heat. Stir the cornstarch mixture into the sauce. Bring to a boil; reduce the heat and simmer until the sauce has thickened, about 5 to 10 minutes.
+Mix the cornstarch and cold water. Return the saucepan to the stove over medium-high heat. Stir the cornstarch mixture into the sauce. Bring to a boil; reduce the heat and simmer until the sauce has thickened, about :clock5: **5 to 10 minutes**.
