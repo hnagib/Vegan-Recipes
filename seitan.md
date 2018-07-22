@@ -1,6 +1,6 @@
 # Seitan 
 
-### Ingredients
+# Ingredients
 
 | Item                       | Quantity | 
 |----------------------------|----------|
@@ -16,7 +16,7 @@
 | Cold water                 | 10 cups  |
 | Vegetable oil              | 1 tsp    |
 
-### Directions
+# Directions
 
 - Combine the vital wheat gluten flour and nutritional yeast flakes in a bowl; set aside. In a separate bowl, mix the vegetable stock, 1/2 cup of soy sauce, tomato paste, garlic, lemon zest, and seasoning blend.
 
